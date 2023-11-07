@@ -1,5 +1,6 @@
 body {
     height: 5000px;
+    background-color: gray;
 }
 
 .container {
@@ -12,5 +13,8 @@ body {
 
 #image {
     opacity: 0;
-    transition: opacity 1s;
+    transition: opacity 2s;
+    background-color: green;
+    height: 500px;
+    width: 500px;
 }
