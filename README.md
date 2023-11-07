@@ -1,4 +1,4 @@
-# emerging-picture
+# Emerging Element
 
 A script that, while scrolling the page when it notices a certain ID, uses Opacity for 2 seconds to make the element smoothly visible, and also when scrolling the page, when a certain ID disappears from the view, using Opacity for 2 seconds makes the element smoothly invisible.
 
